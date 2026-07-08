@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://imeiden0814-sys.github.io/deck-atelier/sitemap.xml
